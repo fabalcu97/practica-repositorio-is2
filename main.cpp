@@ -21,6 +21,7 @@ int main(){
 
 
 	cout<<"2+2=5  :O"<<endl;
+	cout<<"2+2=4  :P"<<endl;
 
 
 	return 0;
