@@ -6,7 +6,17 @@ using namespace std;
 int main(){
 
 	cout<<"Hello World! :D"<<endl;
+
 	printf("%s,Hello world");
+
+
+	for(int i=0; i<10; ++i){
+        cout<<"Angel"<<endl;
+	}
+
+	cout<<"Fabricio Ballon editó esto"<<endl;
+
+
 	return 0;
 
 }
